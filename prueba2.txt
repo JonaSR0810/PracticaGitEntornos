@@ -1,1 +1,1 @@
-Primera linea prueba2
+Linea nueva en fichero prueba2
